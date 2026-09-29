@@ -1,3 +1,5 @@
+![The Concierge Knows Too Much](The%20Concierge%20Knows%20Too%20Much.png)
+
 # 🏨 The Concierge Knows Too Much — TryHackMe
 
 > Write-up do desafio **"The Concierge Knows Too Much"**, do [TryHackMe](https://tryhackme.com/), explorando conceitos de **Social Engineering** e **Prompt Injection**.
